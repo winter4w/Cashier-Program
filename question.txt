@@ -1,0 +1,21 @@
+1.	What does your script do?
+This is a simple script that allows you to display what change you own from the sale. For example, it will ask for a user to input the amount due. The user let’s say puts in $10. Then it will ask how much money was given by the customer. Let's say we got $42.21 you will then get the output:
+Give the customer
+32 Dollars
+0 Quarters
+2 Dimes
+0 Nickels
+1 Pennies
+
+It will then ask if you would want to do another input or type quit to exit. If you type quit, it will exit out otherwise it would restart. 
+
+2.	Describe your process for writing the script
+When writing this script, I used some examples I did in class, along with some examples of some projects I did in high school. I also used some of the documentation python has online. 
+3.	How did you approach testing your script? Did you have any particularly troublesome problems? If so; how did you solve them?
+
+Yes some issues I ran into were letting this program run in the system cmd. To fix this I had to use os.system to let the terminal clear itself then exit. Other issues I had were just some small math error mistakes. Most of the stuff I used was from the online documctaion pyton has that has helped me fix problems or make the program do what I want it to do. 
+
+4.	If you could give a word of advice to yourself before you started this assignment; what would it have been?
+
+Probably look at examples and read more documentation instead of just jumping in on it. I was a bit lost on the idea on what to do but then figured a Cashier program was simple enough for me to do based on all the information I knew about python. 
+
