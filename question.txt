@@ -11,9 +11,9 @@ It will then ask if you would want to do another input or type quit to exit. If 
 
 2.	Describe your process for writing the script
 When writing this script, I used some examples I did in class, along with some examples of some projects I did in high school. I also used some of the documentation python has online. 
-3.	How did you approach testing your script? Did you have any particularly troublesome problems? If so; how did you solve them?
+3.	How did you approach testing your script? Did you have any particularly troublesome problems? If so, how did you solve them?
 
-Yes some issues I ran into were letting this program run in the system cmd. To fix this I had to use os.system to let the terminal clear itself then exit. Other issues I had were just some small math error mistakes. Most of the stuff I used was from the online documctaion pyton has that has helped me fix problems or make the program do what I want it to do. 
+Yes some issues I ran into were letting this program run in the system cmd. To fix this I had to use os.system to allow the terminal clear itself then exit. Other issues I had were just some small math error mistakes. Most of the stuff I used was from the online documentation python has that has helped me fix problems or make the program do what I want it to do. 
 
 4.	If you could give a word of advice to yourself before you started this assignment; what would it have been?
 
